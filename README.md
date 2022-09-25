@@ -38,9 +38,6 @@ In order to create the Twitter Live Feed Analysis Dashboard the website scrapes 
 This section of the dashboard is for displaying the live, state wise statistics of COVID-19 cases in India.
 ![Live Case Count](https://github.com/SmartPracticeschool/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19/blob/master/Pictures/Live%20Case%20Count.png)
 
-## About Us
-![About Us](https://github.com/SmartPracticeschool/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19/blob/master/Pictures/About%20Us.png)
-
 
 ## Development Phase
 
