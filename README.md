@@ -1,4 +1,4 @@
-# SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19
+# Sentiment-Analysis-on-Twitter-during-COVID-19-in-India
 ## Twitter Sentiment Analysis &amp; Extraction for COVID-19
 <p align="center">
   <img src="https://github.com/SmartPracticeschool/SBSPS-Challenge-2700-Twitter-Sentiment-Analysis-Extraction-for-COVID-19/blob/master/Pictures/Twitterlogo.png"/>
